@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemb&label=Profile%20views&color=0e75b6&style=flat" alt="khemb" /> </p>
 
-- 🔭 I’m currently Studying CIS-Analytic **Power BI, Web dev and Business MGMG**
+- 🔭 I Completed my Degree in CIS- DataAnalytic **Power BI, Web dev and Business MGMG**
 
 - 🌱 I’m currently learning **Python**
 
